@@ -1,0 +1,12 @@
+error: Microsoft Visual C++ 14.0 is required. Get it with "Microsoft Visual C++ Build Tools": https://visualstudio.microsoft.com/downloads/
+
+一、下載Build Tools for Visual Studio 2015 Update 3個別使用版本
+
+下載visualcppbuildtools_full.exe，進入Microsoft 下載頁面 https://visualstudio.microsoft.com/downloads/   ，最下方點選[舊版下載]，再點選[可轉發套件及建置工具]，會顯示Microsoft Build Tools 2015 Update 3 (用來建置 Managed 應用程式的基本工具。 之前包含在 .NET Framework 中，現在已經在此提供個別下載使用)，點選[下載]； 或直接網路搜尋取得執行檔。
+
+二、執行visualcppbuildtools_full.exe
+
+-----------------------
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#ta-lib
+下載與python對應版本TA lib
+pip install TA_xxxxxxxxxxxxxxxxxxxxxxxxxxx.whl
